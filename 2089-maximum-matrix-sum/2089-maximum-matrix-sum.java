@@ -13,12 +13,10 @@ class Solution {
                 sum+=v;
             }
         }
-        if(negvals%2==0){
-            return sum;
+        if((negvals & 1) == 1){
+            return sum-2*minval;
         }
-        else{
-            sum=sum-2*minval;
-            return sum;
-        }
+        return sum;
+        
     }
 }
