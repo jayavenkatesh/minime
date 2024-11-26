@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [3189-find-champion-ii](https://github.com/jayavenkatesh/minime/tree/master/3189-find-champion-ii) |
 ## Stack
 |  |
@@ -45,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
+| [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
