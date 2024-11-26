@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayavenkatesh/minime/tree/master/0210-course-schedule-ii) |
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -45,16 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayavenkatesh/minime/tree/master/0210-course-schedule-ii) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Topological Sort
 |  |
 | ------- |
