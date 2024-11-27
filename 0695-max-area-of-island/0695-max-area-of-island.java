@@ -10,6 +10,7 @@ class Solution {
                 }
             }
         }
+        //System.gc();
         return ans;
     }
     int dfs(int i,int j,int[][] grid,boolean[][] visited){
@@ -24,6 +25,7 @@ class Solution {
                 m+=dfs(nr,nc,grid,visited);
             }
         }
+        //System.gc();
         return m;
     }
 }
