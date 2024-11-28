@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayavenkatesh/minime/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Topological Sort
 |  |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
