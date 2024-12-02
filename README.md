@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2089-maximum-matrix-sum](https://github.com/jayavenkatesh/minime/tree/master/2089-maximum-matrix-sum) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/jayavenkatesh/minime/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jayavenkatesh/minime/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavenkatesh/minime/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jayavenkatesh/minime/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayavenkatesh/minime/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/jayavenkatesh/minime/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavenkatesh/minime/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jayavenkatesh/minime/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Backtracking
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayavenkatesh/minime/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/jayavenkatesh/minime/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
 | ------- |
