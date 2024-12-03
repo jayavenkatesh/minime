@@ -8,10 +8,8 @@ class Solution {
                 sb.append(" ");
                 a++;
             }
-            else{
-                sb.append(s.charAt(i));
-                i++;
-            }
+            sb.append(s.charAt(i));
+            i++;
         }
         return sb.toString();
     }
