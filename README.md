@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jayavenkatesh/minime/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jayavenkatesh/minime/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Topological Sort
 |  |
 | ------- |
