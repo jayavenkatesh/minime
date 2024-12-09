@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/jayavenkatesh/minime/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3427-special-array-ii](https://github.com/jayavenkatesh/minime/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/jayavenkatesh/minime/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jayavenkatesh/minime/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3427-special-array-ii](https://github.com/jayavenkatesh/minime/tree/master/3427-special-array-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayavenkatesh/minime/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavenkatesh/minime/tree/master/2292-counting-words-with-a-given-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/jayavenkatesh/minime/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
