@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jayavenkatesh/minime/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/jayavenkatesh/minime/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jayavenkatesh/minime/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/jayavenkatesh/minime/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/jayavenkatesh/minime/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jayavenkatesh/minime/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/jayavenkatesh/minime/tree/master/0783-search-in-a-binary-search-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3427-special-array-ii](https://github.com/jayavenkatesh/minime/tree/master/3427-special-array-ii) |
 ## Eulerian Circuit
