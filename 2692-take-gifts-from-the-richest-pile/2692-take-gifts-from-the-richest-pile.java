@@ -1,7 +1,7 @@
 class Solution {
     public long pickGifts(int[] gifts, int k) {
         long ans=0;
-        PriorityQueue<Integer> heap=new PriorityQueue(Collections.reverseOrder());
+        PriorityQueue<Integer> heap=new PriorityQueue<>((a,b) -> b-a);
         for(int i:gifts){
             heap.offer(i);
         }
