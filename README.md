@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavenkatesh/minime/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jayavenkatesh/minime/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/jayavenkatesh/minime/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jayavenkatesh/minime/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/jayavenkatesh/minime/tree/master/3427-special-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/jayavenkatesh/minime/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/jayavenkatesh/minime/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jayavenkatesh/minime/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/jayavenkatesh/minime/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## String Matching
 |  |
 | ------- |
