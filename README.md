@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/jayavenkatesh/minime/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayavenkatesh/minime/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/jayavenkatesh/minime/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayavenkatesh/minime/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/jayavenkatesh/minime/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jayavenkatesh/minime/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jayavenkatesh/minime/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/jayavenkatesh/minime/tree/master/0173-binary-search-tree-iterator) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
