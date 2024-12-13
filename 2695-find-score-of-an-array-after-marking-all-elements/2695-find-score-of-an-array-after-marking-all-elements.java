@@ -1,17 +1,13 @@
 class pair {
     int val;
-    int left;
-    int right;
     int index;
 
     pair() {
 
     }
 
-    pair(int a, int b, int c, int d) {
+    pair(int a,int d) {
         this.val = a;
-        this.left = b;
-        this.right = c;
         this.index = d;
     }
 }
@@ -26,9 +22,7 @@ class Solution {
             }
         });
         for (int i = 0; i < nums.length; i++) {
-            int left = i == 0 ? -1 : nums[i - 1];
-            int right = i == nums.length - 1 ? -1 : nums[i + 1];
-            heap.offer(new pair(nums[i], left, right, i));
+            heap.offer(new pair(nums[i],i));
         }
         boolean[] visited = new boolean[nums.length];
         long ans = 0;
