@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayavenkatesh/minime/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/jayavenkatesh/minime/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/jayavenkatesh/minime/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/jayavenkatesh/minime/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/jayavenkatesh/minime/tree/master/0173-binary-search-tree-iterator) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayavenkatesh/minime/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jayavenkatesh/minime/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayavenkatesh/minime/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
