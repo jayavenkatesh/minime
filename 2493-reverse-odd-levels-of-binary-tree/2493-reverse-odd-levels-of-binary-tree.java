@@ -15,43 +15,20 @@
  */
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        if(root==null){
-            return root;
-        }
-        Queue<TreeNode> queue=new LinkedList();
-        queue.offer(root);
-        int count=1;
-        while(!queue.isEmpty()){
-            if(queue.peek().left==null){
-                break;
-            }
-            int n=queue.size();
-            List<TreeNode> list=new ArrayList();
-            for(int i=0;i<n;i++){
-                list.add(queue.poll());
-            }
-            if(count%2==1){
-                List<Integer> baby=new ArrayList();
-                for(int i=0;i<n;i++){
-                    TreeNode node=list.get(i);
-                    baby.add(node.left.val);
-                    baby.add(node.right.val);
-                }
-                int k=baby.size()-1;
-                for(int i=0;i<n;i++){
-                    TreeNode node=list.get(i);
-                    node.left.val=baby.get(k);
-                    node.right.val=baby.get(k-1);
-                    k=k-2;
-                }
-            }
-            for(int i=0;i<n;i++){
-                TreeNode node=list.get(i);
-                queue.add(node.left);
-                queue.add(node.right);
-            }
-            count++;
-        }
+        dfs(root.left, root.right, 0);
         return root;
+    }
+    
+    private void dfs(TreeNode left, TreeNode right, int depth) {
+        if (left == null && right == null) return;
+
+        if (depth % 2 == 0) {
+            int temp = left.val;
+            left.val = right.val;
+            right.val = temp;
+        }
+
+        dfs(left.left, right.right, depth + 1);
+        dfs(left.right, right.left, depth + 1);
     }
 }
