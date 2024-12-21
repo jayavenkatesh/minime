@@ -13,7 +13,7 @@ class Solution {
         }
 
         ans = 0;
-        int z = dfs(adj, values, 0, -1, k);
+        dfs(adj, values, 0, -1, k);
 
         return ans;
 
