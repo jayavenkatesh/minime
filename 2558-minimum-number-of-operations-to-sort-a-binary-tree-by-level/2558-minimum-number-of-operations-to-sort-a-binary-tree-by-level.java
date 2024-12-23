@@ -57,14 +57,7 @@ class Solution {
         for (int i = 0; i < N; i++) {
             if (arr[i] != temp[i]) {
                 ans++;
-                int z=0;
-                for(int j=0;j<N;j++){
-                    if(arr[j]==temp[i]){
-                        z=j;
-                        break;
-                    }
-                }
-                swap(arr, i, z);
+                swap(arr, i, indexOf(arr, temp[i]));
             }
         }
         return ans;
