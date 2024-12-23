@@ -34,20 +34,9 @@ class Solution {
                     queue.add(node.right);
                 }
             }
-            if(sorted(arr)){
-                continue;
-            }
             ans+=minSwaps(arr,n);
         }
         return ans;
-    }
-    boolean sorted(int[] arr){
-        for(int i=0;i<arr.length-1;i++){
-            if(arr[i]>arr[i+1]){
-                return false;
-            }
-        }
-        return true;
     }
     private int minSwaps(int[] arr, int N) {
         int ans = 0;
