@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/jayavenkatesh/minime/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/jayavenkatesh/minime/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/jayavenkatesh/minime/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jayavenkatesh/minime/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/jayavenkatesh/minime/tree/master/0191-number-of-1-bits) |
 ## Queue
 |  |
 | ------- |
