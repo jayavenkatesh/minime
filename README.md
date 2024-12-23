@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/jayavenkatesh/minime/tree/master/0338-counting-bits) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2164-two-best-non-overlapping-events](https://github.com/jayavenkatesh/minime/tree/master/2164-two-best-non-overlapping-events) |
 ## Sliding Window
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jayavenkatesh/minime/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/jayavenkatesh/minime/tree/master/0338-counting-bits) |
 ## Design
 |  |
 | ------- |
