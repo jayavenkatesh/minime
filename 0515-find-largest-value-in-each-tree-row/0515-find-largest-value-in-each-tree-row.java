@@ -14,28 +14,22 @@
  * }
  */
 class Solution {
+    List<Integer> ans;
     public List<Integer> largestValues(TreeNode root) {
-        List<Integer> largestValueInEachRow=new ArrayList();
-        if(root==null){
-            return largestValueInEachRow;
-        }
-        Queue<TreeNode> queue=new LinkedList();
-        queue.offer(root);
-        while(!queue.isEmpty()){
-            int n=queue.size();
-            int val=Integer.MIN_VALUE;
-            for(int i=0;i<n;i++){
-                TreeNode node=queue.poll();
-                val=Math.max(val,node.val);
-                if(node.left!=null){
-                    queue.offer(node.left);
-                }
-                if(node.right!=null){
-                    queue.offer(node.right);
-                }
+        ans = new ArrayList<>();
+        dfs(root, 0);
+        return ans;
+    }
+    void dfs(TreeNode node, int l) {
+        if(node != null) {
+            int v = node.val;
+            if(l == ans.size()) {
+                ans.add(v);
+            } else {
+                ans.set(l, Math.max(ans.get(l), v));
             }
-            largestValueInEachRow.add(val);
+            dfs(node.left, l + 1);
+            dfs(node.right, l + 1);
         }
-        return largestValueInEachRow;
     }
 }
