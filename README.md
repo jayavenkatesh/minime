@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/jayavenkatesh/minime/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jayavenkatesh/minime/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/jayavenkatesh/minime/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jayavenkatesh/minime/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jayavenkatesh/minime/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayavenkatesh/minime/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jayavenkatesh/minime/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/jayavenkatesh/minime/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jayavenkatesh/minime/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
