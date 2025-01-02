@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jayavenkatesh/minime/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayavenkatesh/minime/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayavenkatesh/minime/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2001-jump-game-vii](https://github.com/jayavenkatesh/minime/tree/master/2001-jump-game-vii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/jayavenkatesh/minime/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/jayavenkatesh/minime/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavenkatesh/minime/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jayavenkatesh/minime/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2001-jump-game-vii](https://github.com/jayavenkatesh/minime/tree/master/2001-jump-game-vii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jayavenkatesh/minime/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/jayavenkatesh/minime/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
@@ -357,11 +359,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/jayavenkatesh/minime/tree/master/1063-best-sightseeing-pair) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayavenkatesh/minime/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2001-jump-game-vii](https://github.com/jayavenkatesh/minime/tree/master/2001-jump-game-vii) |
 | [2164-two-best-non-overlapping-events](https://github.com/jayavenkatesh/minime/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jayavenkatesh/minime/tree/master/2562-count-ways-to-build-good-strings) |
 ## Sliding Window
 |  |
 | ------- |
+| [2001-jump-game-vii](https://github.com/jayavenkatesh/minime/tree/master/2001-jump-game-vii) |
 | [2868-continuous-subarrays](https://github.com/jayavenkatesh/minime/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jayavenkatesh/minime/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jayavenkatesh/minime/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
