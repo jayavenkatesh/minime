@@ -23,7 +23,7 @@ class Solution {
             int l=q[0];
             int u=q[1];
             int z=arr[u+1];
-            z=l==0?z:z-arr[l];
+            z=z-arr[l];
             ans[i++]=z;
         }
         return ans;
