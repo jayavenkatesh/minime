@@ -1,17 +1,13 @@
 class Solution {
+    int[] arr = new int[45+1];
+
     public int climbStairs(int n) {
-        if (n <= 3) return n;
-
-        int prev1 = 3;
-        int prev2 = 2;
-        int cur = 0;
-
-        for (int i = 3; i < n; i++) {
-            cur = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = cur;
+        Arrays.fill(arr, -1);
+        arr[0] = 1;
+        arr[1] = 1;
+        for(int i=2;i<=n;i++){
+            arr[i]=arr[i-1]+arr[i-2];
         }
-
-        return cur;        
+        return arr[n];
     }
 }
