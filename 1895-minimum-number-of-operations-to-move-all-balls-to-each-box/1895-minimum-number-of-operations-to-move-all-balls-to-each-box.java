@@ -1,20 +1,23 @@
 class Solution {
     public int[] minOperations(String boxes) {
         int[] ans=new int[boxes.length()];
-        List<Integer> list=new ArrayList();
+        int balls=0;
+        int moves=0;
         for(int i=0;i<boxes.length();i++){
-            char c=boxes.charAt(i);
-            if(c=='1'){
-                list.add(i);
+            ans[i]=balls+moves;
+            if(boxes.charAt(i)=='1'){
+                balls++;
             }
+            moves=ans[i];
         }
-        for(int i=0;i<boxes.length();i++){
-            int a=0;
-            for(int j:list){
-                int z=Math.abs(i-j);
-                a+=z;
+        balls=0;
+        moves=0;
+        for(int i=boxes.length()-1;i>=0;i--){
+            ans[i]+=balls+moves;
+            moves=balls+moves;
+            if(boxes.charAt(i)=='1'){
+                balls++;
             }
-            ans[i]=a;
         }
         return ans;
     }
