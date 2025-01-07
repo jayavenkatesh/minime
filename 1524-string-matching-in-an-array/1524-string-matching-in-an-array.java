@@ -1,6 +1,5 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        HashSet<String> hs=new HashSet();
         List<String> list=new ArrayList();
         for(int i=0;i<words.length;i++){
             String s=words[i];
@@ -9,9 +8,8 @@ class Solution {
                     continue;
                 }
                 String a=words[j];
-                if(s.contains(a) && !hs.contains(a)){
+                if(s.contains(a) && !list.contains(a)){
                     list.add(a);
-                    hs.add(a);
                 }
             }
         }
