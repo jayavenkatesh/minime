@@ -1,33 +1,38 @@
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
-        int[] primary = new int[26]; 
-        for (String w : words2) {
-            int[] temp = new int[26];
-            for (char c : w.toCharArray()) {
-                temp[c - 'a']++;
+        HashMap<Character,Integer> primary=new HashMap();
+        for(String s:words2){
+            HashMap<Character,Integer> temp=new HashMap();
+            for(char c:s.toCharArray()){
+                temp.put(c,temp.getOrDefault(c,0)+1);
             }
-            for (int i = 0; i < 26; i++) {
-                primary[i] = Math.max(primary[i], temp[i]);
+            for(Map.Entry<Character,Integer> m:temp.entrySet()){
+                if(!primary.containsKey(m.getKey()) || m.getValue()>primary.get(m.getKey())){
+                    primary.put(m.getKey(),m.getValue());
+                }
             }
         }
-        List<String> list = new ArrayList<>();
-        for (String w : words1) {
-            int[] freq = new int[26];
-            for (char c : w.toCharArray()) {
-                freq[c - 'a']++;
+        List<String> list=new ArrayList();
+        for(String s:words1){
+            HashMap<Character,Integer> hs=new HashMap();
+            for(char c:s.toCharArray()){
+                hs.put(c,hs.getOrDefault(c,0)+1);
             }
-            boolean flag = true;
-            for (int i = 0; i < 26; i++) {
-                if (freq[i] < primary[i]) {
-                    flag = false;
+            int flag=0;
+            for(Map.Entry<Character,Integer> m:primary.entrySet()){
+                if(!hs.containsKey(m.getKey())){
+                    flag=1;
+                    break;
+                }
+                if(m.getValue()>hs.get(m.getKey())){
+                    flag=1;
                     break;
                 }
             }
-            if (flag) {
-                list.add(w);
+            if(flag==0){
+                list.add(s);
             }
         }
-        
         return list;
     }
 }
