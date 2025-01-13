@@ -1,8 +1,7 @@
 class Solution {
     public int minimumLength(String s) {
         int[] right=new int[26];
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
+        for(char c:s.toCharArray()){
             right[c-'a']++;
         }
         int ans=0;
