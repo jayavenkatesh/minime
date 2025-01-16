@@ -1,9 +1,8 @@
 class Solution {
-    int[] dp;
     public int minimumTotal(List<List<Integer>> tri) {
         int n=tri.size();
         int m=tri.get(n-1).size();
-        dp=new int[m];
+        int[] dp=new int[m];
         for(int j=0;j<m;j++){
             dp[j]=tri.get(n-1).get(j);
         }
