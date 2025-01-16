@@ -1,19 +1,21 @@
 class Solution {
-    int[][] dp;
+    int[] dp;
     public int minimumTotal(List<List<Integer>> tri) {
         int n=tri.size();
         int m=tri.get(n-1).size();
-        dp=new int[n][tri.get(n-1).size()];
+        dp=new int[m];
         for(int j=0;j<m;j++){
-            dp[n-1][j]=tri.get(n-1).get(j);
+            dp[j]=tri.get(n-1).get(j);
         }
         for(int i=n-2;i>=0;i--){
+            int[] cur=new int[m];
             for(int j=i;j>=0;j--){
-                int down=tri.get(i).get(j)+dp[i+1][j];
-                int dRight=tri.get(i).get(j)+dp[i+1][j+1];
-                dp[i][j]=Math.min(down,dRight);
+                int down=tri.get(i).get(j)+dp[j];
+                int dRight=tri.get(i).get(j)+dp[j+1];
+                cur[j]=Math.min(down,dRight);
             }
+            dp=cur;
         }
-        return dp[0][0];
+        return dp[0];
     }
 }
