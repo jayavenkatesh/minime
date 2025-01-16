@@ -5,20 +5,23 @@ class Solution {
         for(int[] arr:dp){
             Arrays.fill(arr,-1);
         }
-        return rec(grid.length-1,grid[0].length-1,grid);
-    }
-    int rec(int i,int j,int[][] grid){
-        if(i<0 || j<0){
-            return 1000000;
+        dp[0][0]=grid[0][0];
+        for(int i=0;i<grid.length;i++){
+            for(int j=0;j<grid[i].length;j++){
+                if(i==0 && j==0){
+                    continue;
+                }
+                int left=Integer.MAX_VALUE;
+                int up=Integer.MAX_VALUE;
+                if(j>0){
+                    left=grid[i][j]+dp[i][j-1];
+                }
+                if(i>0){
+                    up=grid[i][j]+dp[i-1][j];
+                } 
+                dp[i][j]=Math.min(left,up);
+            }
         }
-        if(i==0 && j==0){
-            return grid[0][0];
-        }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        int up=grid[i][j]+rec(i-1,j,grid);
-        int left=grid[i][j]+rec(i,j-1,grid);
-        return dp[i][j] = Math.min(up,left);
+        return dp[grid.length-1][grid[0].length-1];
     }
 }
