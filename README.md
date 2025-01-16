@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jayavenkatesh/minime/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jayavenkatesh/minime/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jayavenkatesh/minime/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jayavenkatesh/minime/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/jayavenkatesh/minime/tree/master/0338-counting-bits) |
