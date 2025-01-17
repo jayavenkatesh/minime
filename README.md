@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/jayavenkatesh/minime/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jayavenkatesh/minime/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/jayavenkatesh/minime/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/jayavenkatesh/minime/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/jayavenkatesh/minime/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jayavenkatesh/minime/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0747-min-cost-climbing-stairs) |
