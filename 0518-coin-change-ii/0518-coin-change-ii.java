@@ -1,23 +1,28 @@
 class Solution {
-    long[][] dp;
+    long[] dp;
     public int change(int amount, int[] coins) {
-        dp=new long[coins.length][amount+1];
-        for(long[] a:dp){
-            Arrays.fill(a,-1);
+        int n = coins.length;
+        dp = new long[amount + 1];
+        for (int t = 0; t <= amount; t++) {
+            if (t % coins[0] == 0)
+                dp[t] = 1;
+            else {
+                dp[t] =0;
+            }
         }
-        return (int) rec(coins.length-1,coins,amount);
-        
-    }
-    long rec(int i,int[] coins,int t){
-        if(i==0){
-            if(t%coins[0]==0) return 1;
-            return 0;
-        }
-        if(dp[i][t]!=-1) return dp[i][t];
-        long notTake=rec(i-1,coins,t);
-        long take= 0;
-        if(coins[i]<=t) take=rec(i,coins,t-coins[i]);
+        for (int i = 1; i < n; i++) {
+            long[] cur=new long[amount+1];
+            for (int t = 0; t <= amount; t++) {
+                long notTake = dp[t];
+                long take = 0;
+                if (coins[i] <= t)
+                    take =cur[t - coins[i]];
 
-        return dp[i][t] = notTake+take;
+                cur[t] =notTake+take;
+            }
+            dp=cur;
+        }
+        long ans = dp[amount];
+        return (int) ans;
     }
 }
