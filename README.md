@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/jayavenkatesh/minime/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/jayavenkatesh/minime/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/jayavenkatesh/minime/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayavenkatesh/minime/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/jayavenkatesh/minime/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/jayavenkatesh/minime/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayavenkatesh/minime/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/jayavenkatesh/minime/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/jayavenkatesh/minime/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jayavenkatesh/minime/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/jayavenkatesh/minime/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
