@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/jayavenkatesh/minime/tree/master/1063-best-sightseeing-pair) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/jayavenkatesh/minime/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
+| [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jayavenkatesh/minime/tree/master/1524-string-matching-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/jayavenkatesh/minime/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/jayavenkatesh/minime/tree/master/1559-cherry-pickup-ii) |
 | [1876-map-of-highest-peak](https://github.com/jayavenkatesh/minime/tree/master/1876-map-of-highest-peak) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/jayavenkatesh/minime/tree/master/1876-map-of-highest-peak) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [0904-leaf-similar-trees](https://github.com/jayavenkatesh/minime/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jayavenkatesh/minime/tree/master/2201-valid-arrangement-of-pairs) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 ## String
 |  |
 | ------- |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavenkatesh/minime/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/jayavenkatesh/minime/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jayavenkatesh/minime/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
