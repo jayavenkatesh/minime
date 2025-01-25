@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jayavenkatesh/minime/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/jayavenkatesh/minime/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jayavenkatesh/minime/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0516-longest-palindromic-subsequence) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/jayavenkatesh/minime/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/jayavenkatesh/minime/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/jayavenkatesh/minime/tree/master/0322-coin-change) |
