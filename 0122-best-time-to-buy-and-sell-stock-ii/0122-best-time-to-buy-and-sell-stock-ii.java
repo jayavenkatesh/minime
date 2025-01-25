@@ -1,19 +1,21 @@
 class Solution {
-    int[][] dp;
+    int[] dp;
     public int maxProfit(int[] p) {
         int n=p.length;
-        dp=new int[n+1][2];
-        dp[n][0]=dp[n][1]=0;
+        dp=new int[2];
+        dp[0]=dp[1]=0;
         for(int i=n-1;i>=0;i--){
+            int[] cur=new int[2];
             for(int buy=0;buy<=1;buy++){
                 if(buy==1){
-                    dp[i][buy] = Math.max(-p[i]+dp[i+1][0],dp[i+1][1]);
+                    cur[buy] = Math.max(-p[i]+dp[0],dp[1]);
                 }
                 else{
-                    dp[i][buy] = Math.max(p[i]+dp[i+1][1],dp[i+1][0]);
+                    cur[buy] = Math.max(p[i]+dp[1],dp[0]);
                 }
             }
+            dp=cur;
         }
-        return dp[0][1];
+        return dp[1];
     }
 }
