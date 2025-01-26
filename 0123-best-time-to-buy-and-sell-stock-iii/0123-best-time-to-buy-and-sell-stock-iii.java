@@ -1,23 +1,23 @@
 class Solution {
-    int[][][] dp;
     public int maxProfit(int[] prices) {
-        dp=new int[prices.length][2][5];
-        for(int[][] arr:dp){
-            for(int[] a:arr) Arrays.fill(a,-1);;
+        int n = prices.length;
+        int[][][] dp = new int[n + 1][2][3];
+        // for (int b = 0; b <= 1; b++) {
+        //     for (int c = 0; c <= 2; c++) {
+        //         dp[n][b][c] = 0;
+        //     }
+        // }
+        for (int i = n - 1; i >= 0; i--) {
+            for (int b = 0; b <= 1; b++) {
+                for (int c = 0; c < 2; c++) {
+                    if (b == 1) {
+                        dp[i][b][c] = Math.max(-prices[i] + dp[i + 1][0][c], dp[i + 1][1][c]);
+                    } else {
+                        dp[i][b][c] = Math.max(prices[i] + dp[i + 1][1][c + 1], dp[i + 1][0][c]);
+                    }
+                }
+            }
         }
-        return rec(0,1,prices,0);
-    }
-    int rec(int i,int buy,int[] prices,int count){
-        if(count==2){
-            return 0;
-        }
-        if(i>=prices.length) return 0;
-        if(dp[i][buy][count]!=-1) return dp[i][buy][count];
-        if(buy==1){
-            return dp[i][buy][count]= Math.max(-prices[i]+rec(i+1,0,prices,count),rec(i+1,1,prices,count));
-        }
-        else{
-            return dp[i][buy][count]= Math.max(prices[i]+rec(i+1,1,prices,count+1),rec(i+1,0,prices,count));
-        }
+        return dp[0][1][0];
     }
 }
