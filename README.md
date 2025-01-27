@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/jayavenkatesh/minime/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/jayavenkatesh/minime/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jayavenkatesh/minime/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/jayavenkatesh/minime/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/jayavenkatesh/minime/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jayavenkatesh/minime/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayavenkatesh/minime/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/jayavenkatesh/minime/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jayavenkatesh/minime/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayavenkatesh/minime/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayavenkatesh/minime/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/jayavenkatesh/minime/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/jayavenkatesh/minime/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayavenkatesh/minime/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
