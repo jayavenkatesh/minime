@@ -1,9 +1,18 @@
 class Solution {
     int[] dp;
     public int minCut(String s) {
-        dp=new int[s.length()];
-        Arrays.fill(dp,-1);
-        return rec(0,s)-1;
+        dp=new int[s.length()+1];
+        for(int i=s.length()-1;i>=0;i--){
+            int min=(int) 1e9;
+            for(int j=i;j<s.length();j++){
+                if(pali(i,j,s)){
+                    int cost=1+dp[j+1];
+                    min=Math.min(min,cost);
+                }
+            }
+            dp[i] = min;
+        }
+        return dp[0]-1;
     }
     int rec(int i,String s){
         if(i>=s.length()) return 0;
