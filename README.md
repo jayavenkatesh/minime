@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/jayavenkatesh/minime/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/jayavenkatesh/minime/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jayavenkatesh/minime/tree/master/0072-edit-distance) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jayavenkatesh/minime/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jayavenkatesh/minime/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/jayavenkatesh/minime/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jayavenkatesh/minime/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/jayavenkatesh/minime/tree/master/0368-largest-divisible-subset) |
@@ -626,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavenkatesh/minime/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jayavenkatesh/minime/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
