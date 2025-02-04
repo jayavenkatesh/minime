@@ -26,6 +26,8 @@ class Solution {
     }
     void bfs(int z,List<List<Integer>> list,boolean[] vis){
         Queue<Integer> queue=new LinkedList();
+        queue.add(z);
+        vis[z]=true;
         for(int i:list.get(z)){
             if(!vis[i]){
                 queue.add(i);
