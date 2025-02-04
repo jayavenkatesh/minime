@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/jayavenkatesh/minime/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayavenkatesh/minime/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/jayavenkatesh/minime/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/jayavenkatesh/minime/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/jayavenkatesh/minime/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/jayavenkatesh/minime/tree/master/1129-longest-string-chain) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/jayavenkatesh/minime/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/jayavenkatesh/minime/tree/master/1036-rotting-oranges) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/jayavenkatesh/minime/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/jayavenkatesh/minime/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jayavenkatesh/minime/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/jayavenkatesh/minime/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
