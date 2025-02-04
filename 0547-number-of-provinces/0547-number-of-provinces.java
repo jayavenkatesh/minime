@@ -19,10 +19,17 @@ class Solution {
         for(int i=0;i<n;i++){
             if(!vis[i]){
                 ans++;
-                bfs(i,list,vis);
+                dfs(i,list,vis);
             }
         }
         return ans;
+    }
+    void dfs(int z,List<List<Integer>> list,boolean[] vis){
+        if(vis[z]==true) return;
+        vis[z]=true;
+        for(int i:list.get(z)){
+            if(!vis[i]) dfs(i,list,vis);
+        }
     }
     void bfs(int z,List<List<Integer>> list,boolean[] vis){
         Queue<Integer> queue=new LinkedList();
