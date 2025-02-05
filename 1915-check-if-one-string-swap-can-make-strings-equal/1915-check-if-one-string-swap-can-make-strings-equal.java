@@ -1,17 +1,23 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        if(s1.equals(s2)) return true;
-        HashMap<Character,Integer> hm1=new HashMap();
-        HashMap<Character,Integer> hm2=new HashMap();
-        int f=0;
-        for(int i=0;i<s1.length();i++){
-            hm1.put(s1.charAt(i),hm1.getOrDefault(s1.charAt(i),0)+1);
-            hm2.put(s2.charAt(i),hm2.getOrDefault(s2.charAt(i),0)+1);
-            if(s1.charAt(i)!=s2.charAt(i)){
+        int n1 = s1.length();
+        int n2 = s2.length();
+        if (n1 != n2) return false;
+        if (s1.equals(s2)) return true;
+        int i = 0;
+        int j = 0;
+        int f = 0;
+        for (int k = 0; k < n1; k++) {
+            char ch1 = s1.charAt(k);
+            char ch2 = s2.charAt(k);
+            if (ch1 != ch2) {
                 f++;
+                if (f > 2) return false;
+                else if (f == 1) i = k;
+                else j = k;
             }
         }
-        if(!hm1.equals(hm2)) return false;
-        return f>2?false:true;
+        if (s1.charAt(i) == s2.charAt(j) && s1.charAt(j) == s2.charAt(i)) return true;
+        return false;
     }
 }
