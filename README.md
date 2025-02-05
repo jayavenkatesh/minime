@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jayavenkatesh/minime/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jayavenkatesh/minime/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/jayavenkatesh/minime/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jayavenkatesh/minime/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/jayavenkatesh/minime/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/jayavenkatesh/minime/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayavenkatesh/minime/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/jayavenkatesh/minime/tree/master/0787-sliding-puzzle) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jayavenkatesh/minime/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayavenkatesh/minime/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/jayavenkatesh/minime/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jayavenkatesh/minime/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jayavenkatesh/minime/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayavenkatesh/minime/tree/master/0695-max-area-of-island) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/jayavenkatesh/minime/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/jayavenkatesh/minime/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/jayavenkatesh/minime/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jayavenkatesh/minime/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
