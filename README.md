@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayavenkatesh/minime/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jayavenkatesh/minime/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/jayavenkatesh/minime/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jayavenkatesh/minime/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jayavenkatesh/minime/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jayavenkatesh/minime/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/jayavenkatesh/minime/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/jayavenkatesh/minime/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/jayavenkatesh/minime/tree/master/0542-01-matrix) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayavenkatesh/minime/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/jayavenkatesh/minime/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jayavenkatesh/minime/tree/master/0207-course-schedule) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayavenkatesh/minime/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/jayavenkatesh/minime/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/jayavenkatesh/minime/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jayavenkatesh/minime/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jayavenkatesh/minime/tree/master/0684-redundant-connection) |
