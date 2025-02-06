@@ -1,25 +1,34 @@
 class Solution {
-    List<Integer> ans = new ArrayList();
-    HashMap<Integer,Boolean> hm=new HashMap();
-    public List<Integer> eventualSafeNodes(int[][] graph) {
-        for (int i = 0; i < graph.length; i++) {
-            if(!hm.containsKey(i)) {
-                dfs(i,graph);
+    public List<Integer> eventualSafeNodes(int[][] adj) {
+        int V=adj.length;
+        int vis[] = new int[V];
+        int pathVis[] = new int[V];
+        int check[] = new int[V];
+        for (int i = 0; i < V; i++) {
+            if (vis[i] == 0) {
+                dfs(i, adj, vis, pathVis, check);
             }
         }
-        for(Map.Entry<Integer,Boolean> m:hm.entrySet()){
-            if(m.getValue()) ans.add(m.getKey());
+        List<Integer> safeNodes = new ArrayList<>();
+        for (int i = 0; i < V; i++) {
+            if (check[i] == 1)
+                safeNodes.add(i);
         }
-        Collections.sort(ans);
-        return ans;
+        return safeNodes;
     }
-    boolean dfs(int val,int[][] graph) {
-        if(hm.containsKey(val)) return hm.get(val);
-        hm.put(val,false);
-        for (int v : graph[val]) {
-            if(!dfs(v,graph)) return hm.get(v);
+    boolean dfs(int node, int[][] adj, int vis[], 
+    int pathVis[], int check[]) {
+        vis[node] = 1;
+        pathVis[node] = 1;
+        check[node] = 0;
+        for (int it : adj[node]) {
+            if (vis[it] == 0) {
+                if (dfs(it, adj, vis, pathVis, check)) return true;
+            }
+            else if (pathVis[it] == 1) return true;
         }
-        hm.put(val,true);
-        return true;
+        check[node] = 1;
+        pathVis[node] = 0;
+        return false;
     }
 }
