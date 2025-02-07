@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/jayavenkatesh/minime/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavenkatesh/minime/tree/master/1502-construct-k-palindrome-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/jayavenkatesh/minime/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavenkatesh/minime/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavenkatesh/minime/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jayavenkatesh/minime/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/jayavenkatesh/minime/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavenkatesh/minime/tree/master/1502-construct-k-palindrome-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/jayavenkatesh/minime/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavenkatesh/minime/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/jayavenkatesh/minime/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jayavenkatesh/minime/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/jayavenkatesh/minime/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/jayavenkatesh/minime/tree/master/0368-largest-divisible-subset) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/jayavenkatesh/minime/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/jayavenkatesh/minime/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jayavenkatesh/minime/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
