@@ -1,34 +1,37 @@
 class Solution {
-    public List<Integer> eventualSafeNodes(int[][] adj) {
-        int V=adj.length;
-        int vis[] = new int[V];
-        int pathVis[] = new int[V];
-        int check[] = new int[V];
-        for (int i = 0; i < V; i++) {
-            if (vis[i] == 0) {
-                dfs(i, adj, vis, pathVis, check);
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        List<List<Integer>> adj=new ArrayList();
+        int n=graph.length;
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList());
+        }
+        for(int i=0;i<n;i++){
+            int[] arr=graph[i];
+            for(int j:arr){
+                adj.get(j).add(i);
             }
         }
-        List<Integer> safeNodes = new ArrayList<>();
-        for (int i = 0; i < V; i++) {
-            if (check[i] == 1)
-                safeNodes.add(i);
-        }
-        return safeNodes;
-    }
-    boolean dfs(int node, int[][] adj, int vis[], 
-    int pathVis[], int check[]) {
-        vis[node] = 1;
-        pathVis[node] = 1;
-        check[node] = 0;
-        for (int it : adj[node]) {
-            if (vis[it] == 0) {
-                if (dfs(it, adj, vis, pathVis, check)) return true;
+        int[] inedges=new int[n];
+        for(int i=0;i<adj.size();i++){
+            List<Integer> l=adj.get(i);
+            for(int j:l){
+                inedges[j]++;
             }
-            else if (pathVis[it] == 1) return true;
         }
-        check[node] = 1;
-        pathVis[node] = 0;
-        return false;
+        Queue<Integer> queue=new LinkedList();
+        for(int i=0;i<n;i++){
+            if(inedges[i]==0) queue.offer(i);
+        }
+        List<Integer> ans=new ArrayList();
+        while(!queue.isEmpty()){
+            int a=queue.poll();
+            if(inedges[a]==0) ans.add(a);
+            for(int z:adj.get(a)){
+                inedges[z]--;
+                if(inedges[z]==0) queue.offer(z);
+            }
+        }
+        Collections.sort(ans);
+        return ans;
     }
 }
