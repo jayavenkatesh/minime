@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jayavenkatesh/minime/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayavenkatesh/minime/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/jayavenkatesh/minime/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayavenkatesh/minime/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jayavenkatesh/minime/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jayavenkatesh/minime/tree/master/0199-binary-tree-right-side-view) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jayavenkatesh/minime/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jayavenkatesh/minime/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jayavenkatesh/minime/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/jayavenkatesh/minime/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayavenkatesh/minime/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/jayavenkatesh/minime/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jayavenkatesh/minime/tree/master/0047-permutations-ii) |
+| [0126-word-ladder-ii](https://github.com/jayavenkatesh/minime/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/jayavenkatesh/minime/tree/master/0494-target-sum) |
 ## Binary Search Tree
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/jayavenkatesh/minime/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayavenkatesh/minime/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
 | [0952-word-subsets](https://github.com/jayavenkatesh/minime/tree/master/0952-word-subsets) |
