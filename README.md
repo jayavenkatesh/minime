@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/jayavenkatesh/minime/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayavenkatesh/minime/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jayavenkatesh/minime/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayavenkatesh/minime/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jayavenkatesh/minime/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/jayavenkatesh/minime/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/jayavenkatesh/minime/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayavenkatesh/minime/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayavenkatesh/minime/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/jayavenkatesh/minime/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayavenkatesh/minime/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union Find
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jayavenkatesh/minime/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayavenkatesh/minime/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2001-jump-game-vii](https://github.com/jayavenkatesh/minime/tree/master/2001-jump-game-vii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayavenkatesh/minime/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/jayavenkatesh/minime/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jayavenkatesh/minime/tree/master/2562-count-ways-to-build-good-strings) |
 ## Sliding Window
