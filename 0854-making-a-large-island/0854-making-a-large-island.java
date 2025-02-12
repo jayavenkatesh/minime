@@ -1,73 +1,80 @@
+class DisjointSet {
+    List<Integer> parent = new ArrayList<>();
+    List<Integer> size = new ArrayList<>();
+    public DisjointSet(int n) {
+        for (int i = 0; i <= n; i++) {
+            parent.add(i);
+            size.add(1);
+        }
+    }
+    public int findUPar(int node) {
+        if (node == parent.get(node)) {
+            return node;
+        }
+        int ulp = findUPar(parent.get(node));
+        parent.set(node, ulp);
+        return parent.get(node);
+    }
+    public void unionBySize(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v) return;
+        if (size.get(ulp_u) < size.get(ulp_v)) {
+            parent.set(ulp_u, ulp_v);
+            size.set(ulp_v, size.get(ulp_v) + size.get(ulp_u));
+        } else {
+            parent.set(ulp_v, ulp_u);
+            size.set(ulp_u, size.get(ulp_u) + size.get(ulp_v));
+        }
+    }
+}
 class Solution {
-    public int largestIsland(int[][] grid){
-       int n= grid.length;//grid dimmension 
-       int index= 2;//indexing to store the Unique island area into the HashMap 
-        
-       HashMap<Integer, Integer> map= new HashMap<>();//index -- area
-        
-       map.put(0, 0);//putting the 0 because when we are provided with only 0 matrix 
-       //like component finding in a disconnected undirected graph 
-       for(int i= 0; i< n; i++)
-       {
-           for(int j= 0; j< n; j++)
-           {
-               if(grid[i][j] == 1)
-               {
-                   int area= calcIslandArea(grid, n, i, j, index);//calculating the area of the island and storing into the area into the HashMap with a unique index 
-                   map.put(index, area);
-                   index+= 1;//increasing the index for the next island or the component 
-               }
-           }
-       }
-        
-       int[][] trav= {{0,1},{0,-1},{1,0},{-1,0}};//traversing in 4 Direction 
-       int max0ConnectedArea= map.getOrDefault(2, 0);//putting the area of the first component if present in the map, else putting 0 
-       for(int i= 0; i< n; i++)
-       {
-           for(int j= 0; j< n; j++)
-           {
-               if(grid[i][j] == 0)
-               {
-                   Set<Integer> set= new HashSet<>();//set stores only unique values 
-                   
-                   //Searching(island) in 4 Direction of 0
-                   for(int []dirc: trav)
-                   {
-                       //Current Updated co-ordinate
-                       int i_= i+ dirc[0];
-                       int j_= j+ dirc[1];
-                       
-                       if(i_< 0 || i_ >= n || j_< 0 || j_>= n)
-                           continue;//index out of bound case 
-                       
-                       set.add(grid[i_][j_]);//adding the island index into the set
-                   }
-                   
-                   int surroundedArea= 1;//initializing with 1 because we are including 0 as the part of connected island area
-                   for(int idx: set)
-                       surroundedArea+= map.get(idx);//calculating the area
-                   
-                   max0ConnectedArea= Math.max(max0ConnectedArea, surroundedArea);//updating the current maximum connected island area, due to 0 swapping to 1
-               }
-           }
-       }
-       //0 is acting as a unit length bridge between two component or island 
-       return max0ConnectedArea;//returning the maximum connected island area, due to swapping of one 0 to 1 
+    public int largestIsland(int[][] grid) {
+        int n = grid.length;
+        DisjointSet ds = new DisjointSet(n * n);
+        int dr[] = { -1, 0, 1, 0};
+        int dc[] = {0, -1, 0, 1};
+        for (int row = 0; row < n ; row++) {
+            for (int col = 0; col < n ; col++) {
+                if (grid[row][col] == 0) continue;
+                for (int ind = 0; ind < 4; ind++) {
+                    int newr = row + dr[ind];
+                    int newc = col + dc[ind];
+                    if (isValid(newr, newc, n) && grid[newr][newc] == 1) {
+                        int nodeNo = row * n + col;
+                        int adjNodeNo = newr * n + newc;
+                        ds.unionBySize(nodeNo, adjNodeNo);
+                    }
+                }
+            }
+        }
+        int mx = 0;
+        for (int row = 0; row < n; row++) {
+            for (int col = 0; col < n; col++) {
+                if (grid[row][col] == 1) continue;
+                HashSet<Integer> components = new HashSet<>();
+                for (int ind = 0; ind < 4; ind++) {
+                    int newr = row + dr[ind];
+                    int newc = col + dc[ind];
+                    if (isValid(newr, newc, n)) {
+                        if (grid[newr][newc] == 1) {
+                            components.add(ds.findUPar(newr * n + newc));
+                        }
+                    }
+                }
+                int sizeTotal = 0;
+                for (Integer parents : components) {
+                    sizeTotal += ds.size.get(parents);
+                }
+                mx = Math.max(mx, sizeTotal + 1);
+            }
+        }
+        for (int cellNo = 0; cellNo < n * n; cellNo++) {
+            mx = Math.max(mx, ds.size.get(ds.findUPar(cellNo)));
+        }
+        return mx;
     }
-    
-    private int calcIslandArea(int[][] grid, int n, int i, int j, int index)
-    {//Preorder DFS Approach 
-        if(i< 0 || i >= n || j< 0 || j>= n || grid[i][j] != 1)
-            return 0;
-        
-        grid[i][j]= index;//marking it as visited 
-        
-        //Recursing down in 4 Direction 
-        int top= calcIslandArea(grid, n, i-1, j, index);
-        int right= calcIslandArea(grid, n, i, j+1, index);
-        int bottom= calcIslandArea(grid, n, i+1, j, index);
-        int left= calcIslandArea(grid, n,i, j-1, index);
-        
-        return 1+ top+ right+ bottom+ left;//including me and moving in depth 
+    boolean isValid(int newr, int newc, int n) {
+        return newr >= 0 && newr < n && newc >= 0 && newc < n;
     }
-}// Please do Upvote, it helps a lot
+}
