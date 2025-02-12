@@ -7,7 +7,6 @@ class DisjointSet {
             size.add(1);
         }
     }
-
     public int findUPar(int node) {
         if (node == parent.get(node)) {
             return node;
@@ -47,7 +46,6 @@ class Solution {
             hm.put(nr, 1);
             hm.put(nc, 1);
         }
-
         int cnt = 0;
         for (Map.Entry<Integer, Integer> it : hm.entrySet()) {
             if (ds.findUPar(it.getKey()) == it.getKey()) {
