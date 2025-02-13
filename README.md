@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/jayavenkatesh/minime/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/jayavenkatesh/minime/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayavenkatesh/minime/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/jayavenkatesh/minime/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/jayavenkatesh/minime/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayavenkatesh/minime/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayavenkatesh/minime/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/jayavenkatesh/minime/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/jayavenkatesh/minime/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/jayavenkatesh/minime/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -748,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jayavenkatesh/minime/tree/master/0062-unique-paths) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/jayavenkatesh/minime/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
