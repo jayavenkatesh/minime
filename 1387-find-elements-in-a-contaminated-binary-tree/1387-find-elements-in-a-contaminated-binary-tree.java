@@ -20,10 +20,10 @@ class FindElements {
         if(root!=null && root.val==-1){
             root.val=0;                
         }
-        rec(root);   
+        dfs(root);   
         groot=root;  
     }
-    void rec(TreeNode node){
+    void dfs(TreeNode node){
         if(node==null){
             return;
         }
@@ -35,8 +35,8 @@ class FindElements {
             node.right.val=2*node.val+2;
         }
 
-        rec(node.left);
-        rec(node.right);
+        dfs(node.left);
+        dfs(node.right);
 
     }
     
