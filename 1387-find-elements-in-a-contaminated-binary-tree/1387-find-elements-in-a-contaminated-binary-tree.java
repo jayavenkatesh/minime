@@ -15,6 +15,7 @@
  */
 class FindElements {
     TreeNode groot;
+    Set<Integer> hs=new HashSet();
     public FindElements(TreeNode root) {
         if(root!=null && root.val==-1){
             root.val=0;                
@@ -26,7 +27,7 @@ class FindElements {
         if(node==null){
             return;
         }
-
+        hs.add(node.val);
         if(node.left !=null){
             node.left.val=2*node.val+1;                
         }
@@ -40,22 +41,9 @@ class FindElements {
     }
     
     public boolean find(int target) {
-        TreeNode node=new TreeNode();
-        node=groot;
-        return findHelper(node, target);
-    }
-    boolean findHelper(TreeNode node, int target){
-        if(node==null){
-            return false;
-        }
-        if(node.val==target){
-            return true;
-        }
-        
-        if(findHelper(node.left, target) || findHelper(node.right, target)) return true;
-
+        if(hs.contains(target)) return true;
         return false;
-    }  
+    }
 }
 
 /**
