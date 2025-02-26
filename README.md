@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/jayavenkatesh/minime/tree/master/1524-string-matching-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/jayavenkatesh/minime/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayavenkatesh/minime/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavenkatesh/minime/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jayavenkatesh/minime/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayavenkatesh/minime/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/jayavenkatesh/minime/tree/master/1753-path-with-minimum-effort) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayavenkatesh/minime/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jayavenkatesh/minime/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavenkatesh/minime/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavenkatesh/minime/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2001-jump-game-vii](https://github.com/jayavenkatesh/minime/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavenkatesh/minime/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayavenkatesh/minime/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/jayavenkatesh/minime/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/jayavenkatesh/minime/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavenkatesh/minime/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jayavenkatesh/minime/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayavenkatesh/minime/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jayavenkatesh/minime/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jayavenkatesh/minime/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/jayavenkatesh/minime/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayavenkatesh/minime/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavenkatesh/minime/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/jayavenkatesh/minime/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/jayavenkatesh/minime/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
