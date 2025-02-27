@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/jayavenkatesh/minime/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/jayavenkatesh/minime/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/jayavenkatesh/minime/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jayavenkatesh/minime/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/jayavenkatesh/minime/tree/master/0967-minimum-falling-path-sum) |
+| [1013-fibonacci-number](https://github.com/jayavenkatesh/minime/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayavenkatesh/minime/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jayavenkatesh/minime/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/jayavenkatesh/minime/tree/master/1121-partition-array-for-maximum-sum) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/jayavenkatesh/minime/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/jayavenkatesh/minime/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/jayavenkatesh/minime/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayavenkatesh/minime/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavenkatesh/minime/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/jayavenkatesh/minime/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayavenkatesh/minime/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/jayavenkatesh/minime/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
