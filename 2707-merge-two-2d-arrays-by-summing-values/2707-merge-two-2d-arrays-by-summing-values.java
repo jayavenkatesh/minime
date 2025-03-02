@@ -27,11 +27,6 @@ class Solution {
             list.add(new int[]{nums2[j][0],nums2[j][1]});
             j++;
         }
-        int n=list.size();
-        int[][] ans=new int[n][2];
-        for(int z=0;z<n;z++){
-            ans[z]=list.get(z);
-        }
-        return ans;
+        return list.toArray(new int[list.size()][]);
     }
 }
