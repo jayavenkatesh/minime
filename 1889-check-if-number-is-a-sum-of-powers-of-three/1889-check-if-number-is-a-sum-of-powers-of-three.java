@@ -1,11 +1,20 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
-        while (n > 0) {
-            if (n % 3 == 2) {
-                return false;
-            }
-            n /= 3;
+        return rec(n,0,0);
+    }
+    boolean rec(int n,int k,int i){
+        if(n==k){
+            return true;
         }
-        return true;
+        if(i==17){
+            return false;
+        }
+        boolean t=false;
+        int z=(int) Math.pow(3,i);
+        if(n>=z){
+            t=rec(n,k+z,i+1);
+        }
+        boolean nt=rec(n,k,i+1);
+        return t||nt;
     }
 }
