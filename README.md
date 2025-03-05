@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayavenkatesh/minime/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/jayavenkatesh/minime/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/jayavenkatesh/minime/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jayavenkatesh/minime/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jayavenkatesh/minime/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jayavenkatesh/minime/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -828,4 +829,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayavenkatesh/minime/tree/master/1477-product-of-the-last-k-numbers) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/jayavenkatesh/minime/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
