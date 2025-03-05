@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayavenkatesh/minime/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/jayavenkatesh/minime/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
+| [2491-smallest-even-multiple](https://github.com/jayavenkatesh/minime/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jayavenkatesh/minime/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jayavenkatesh/minime/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jayavenkatesh/minime/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -833,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jayavenkatesh/minime/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/jayavenkatesh/minime/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
