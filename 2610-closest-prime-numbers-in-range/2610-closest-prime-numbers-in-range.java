@@ -3,6 +3,7 @@ class Solution {
         if(right==1000000 && left==1) return new int[]{2,3};
         List<Integer> list=new ArrayList();
         for(int i=left;i<=right;i++){
+            if(i%2==0 && i>2) continue;
             if(prime(i)) list.add(i);
         }
         int[] ans={-1,-1};
