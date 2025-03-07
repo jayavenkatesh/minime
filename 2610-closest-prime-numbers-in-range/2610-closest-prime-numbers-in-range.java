@@ -7,6 +7,7 @@ class Solution {
         }
         int[] ans={-1,-1};
         int min=(int) 1e9;
+        if(list.size()<2) return ans;
         for(int i=0;i<list.size()-1;i++){
             if(list.get(i+1)-list.get(i)<min){
                 ans[0]=list.get(i);
