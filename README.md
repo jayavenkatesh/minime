@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jayavenkatesh/minime/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/jayavenkatesh/minime/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jayavenkatesh/minime/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/jayavenkatesh/minime/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jayavenkatesh/minime/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/jayavenkatesh/minime/tree/master/0312-burst-balloons) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/jayavenkatesh/minime/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayavenkatesh/minime/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/jayavenkatesh/minime/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/jayavenkatesh/minime/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/jayavenkatesh/minime/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jayavenkatesh/minime/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/jayavenkatesh/minime/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jayavenkatesh/minime/tree/master/1364-tuple-with-same-product) |
