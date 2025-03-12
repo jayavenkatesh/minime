@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jayavenkatesh/minime/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/jayavenkatesh/minime/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jayavenkatesh/minime/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jayavenkatesh/minime/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/jayavenkatesh/minime/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/jayavenkatesh/minime/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jayavenkatesh/minime/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/jayavenkatesh/minime/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayavenkatesh/minime/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jayavenkatesh/minime/tree/master/0128-longest-consecutive-sequence) |
+| [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/jayavenkatesh/minime/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/jayavenkatesh/minime/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/jayavenkatesh/minime/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jayavenkatesh/minime/tree/master/0780-max-chunks-to-make-sorted) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/jayavenkatesh/minime/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jayavenkatesh/minime/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
@@ -881,4 +886,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/jayavenkatesh/minime/tree/master/2083-three-divisors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
