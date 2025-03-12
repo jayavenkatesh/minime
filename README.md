@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/jayavenkatesh/minime/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavenkatesh/minime/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2486-most-frequent-even-element](https://github.com/jayavenkatesh/minime/tree/master/2486-most-frequent-even-element) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavenkatesh/minime/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/jayavenkatesh/minime/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayavenkatesh/minime/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jayavenkatesh/minime/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavenkatesh/minime/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2486-most-frequent-even-element](https://github.com/jayavenkatesh/minime/tree/master/2486-most-frequent-even-element) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jayavenkatesh/minime/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jayavenkatesh/minime/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jayavenkatesh/minime/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavenkatesh/minime/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/jayavenkatesh/minime/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
+| [2486-most-frequent-even-element](https://github.com/jayavenkatesh/minime/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayavenkatesh/minime/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jayavenkatesh/minime/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayavenkatesh/minime/tree/master/3455-minimum-length-of-string-after-operations) |
