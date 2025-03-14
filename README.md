@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/jayavenkatesh/minime/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/jayavenkatesh/minime/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jayavenkatesh/minime/tree/master/1325-path-with-maximum-probability) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/jayavenkatesh/minime/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/jayavenkatesh/minime/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jayavenkatesh/minime/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/jayavenkatesh/minime/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayavenkatesh/minime/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jayavenkatesh/minime/tree/master/0783-search-in-a-binary-search-tree) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/jayavenkatesh/minime/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jayavenkatesh/minime/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/jayavenkatesh/minime/tree/master/1753-path-with-minimum-effort) |
