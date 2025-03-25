@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jayavenkatesh/minime/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jayavenkatesh/minime/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/jayavenkatesh/minime/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayavenkatesh/minime/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/jayavenkatesh/minime/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Greedy
 |  |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jayavenkatesh/minime/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayavenkatesh/minime/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/jayavenkatesh/minime/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayavenkatesh/minime/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/jayavenkatesh/minime/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
