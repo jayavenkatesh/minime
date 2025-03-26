@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jayavenkatesh/minime/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/jayavenkatesh/minime/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/jayavenkatesh/minime/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayavenkatesh/minime/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jayavenkatesh/minime/tree/master/2164-two-best-non-overlapping-events) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayavenkatesh/minime/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/jayavenkatesh/minime/tree/master/2232-adding-spaces-to-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/jayavenkatesh/minime/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/jayavenkatesh/minime/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/jayavenkatesh/minime/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayavenkatesh/minime/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jayavenkatesh/minime/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jayavenkatesh/minime/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/jayavenkatesh/minime/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/jayavenkatesh/minime/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jayavenkatesh/minime/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayavenkatesh/minime/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jayavenkatesh/minime/tree/master/2164-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jayavenkatesh/minime/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/jayavenkatesh/minime/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayavenkatesh/minime/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/jayavenkatesh/minime/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jayavenkatesh/minime/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayavenkatesh/minime/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/jayavenkatesh/minime/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayavenkatesh/minime/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/jayavenkatesh/minime/tree/master/2491-smallest-even-multiple) |
