@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jayavenkatesh/minime/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayavenkatesh/minime/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jayavenkatesh/minime/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/jayavenkatesh/minime/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jayavenkatesh/minime/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavenkatesh/minime/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/jayavenkatesh/minime/tree/master/1917-maximum-average-pass-ratio) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jayavenkatesh/minime/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/jayavenkatesh/minime/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/jayavenkatesh/minime/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/jayavenkatesh/minime/tree/master/1129-longest-string-chain) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jayavenkatesh/minime/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/jayavenkatesh/minime/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/jayavenkatesh/minime/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/jayavenkatesh/minime/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayavenkatesh/minime/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jayavenkatesh/minime/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/jayavenkatesh/minime/tree/master/0952-word-subsets) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jayavenkatesh/minime/tree/master/0125-valid-palindrome) |
+| [0768-partition-labels](https://github.com/jayavenkatesh/minime/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/jayavenkatesh/minime/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jayavenkatesh/minime/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayavenkatesh/minime/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
