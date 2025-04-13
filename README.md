@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jayavenkatesh/minime/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/jayavenkatesh/minime/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/jayavenkatesh/minime/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/jayavenkatesh/minime/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavenkatesh/minime/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/jayavenkatesh/minime/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayavenkatesh/minime/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/jayavenkatesh/minime/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/jayavenkatesh/minime/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jayavenkatesh/minime/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayavenkatesh/minime/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
