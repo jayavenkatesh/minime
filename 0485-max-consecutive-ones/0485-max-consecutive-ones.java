@@ -4,9 +4,12 @@ class Solution {
         int temp=0;
         for(int i:nums){
             if(i==1) temp++;
-            if(i==0) temp=0;
-            max=Math.max(max,temp);
+            if(i==0) {
+                max=Math.max(max,temp);
+                temp=0;
+            }
+            
         }
-        return max;
+        return Math.max(max,temp);
     }
 }
